@@ -1,4 +1,4 @@
-# Sentiment Analysis Project
+# Twitter Sentiment Analysis Project
 
 ## Abstract
 
